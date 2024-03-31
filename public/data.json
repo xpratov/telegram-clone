@@ -1,0 +1,109 @@
+[
+  {
+    "id": 0,
+    "name": "Front-end ReactJS guruhi FN12",
+    "bio": "Najot Ta'lim - ilm va tajriba ulashamiz!",
+    "username": "fn12_group",
+    "avatar":"/fn12-img.jpeg",
+    "selected":false,
+    "isGroup": true,
+    "isChannel": false,
+    "isUser": false,
+    "membersCount": 27,
+    "members":[
+      {
+        "name":"Xushnudbek Pratov",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"Yusuf",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"murad",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"Jasurbek Sodiqov",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"Xushnudbek Pratov",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"Odinaxon",
+        "online":"Last seen recently"
+      },
+      {
+        "name":"Shavkatjon",
+        "online":"Last seen recently"
+      }
+    ],
+    "messages":[
+      "Assalomu alekum gruppa",
+      "📅 Qachon: 30-mart, shanba, 14:30🙋 Kim uchun: Barcha uchun ochiq📍 Qayerda: «Najot Ta’lim», Chilonzor filialida👉 Ro'yxatdan o'ting",
+      "Assalomu alekum bugun darsga uzurli sabab bilan bora olmayman",
+      "Ogohlantirganingiz uchun rahmat! Darslarga sababli va sababsiz kelmasangiz darslarda o'zlashtirishda muammo bo'lishi mumkin, bu esa imtihonlarda o'tolmaslik uchun asosiy sabablardan biri bo'ladi. Shuning uchun darslarga o'z vaqtida kech qolmasdan kelishingizni so'raymiz.!",
+      "Assalomu alaykum hurmatli o‘quvchilar !4- qavat paroli o‘zgardi.Yangi Parol: 2346#"
+    ] 
+  },
+  {
+    "id": 1,
+    "name": "Do'stim",
+    "bio": "Odamlar bor-odamlarning naqshidur, odamlar bor-hayvon undan yaxshidur!",
+    "username": "example_username",
+    "avatar":"/myfriend-img.jpeg",
+    "selected":false,
+    "isGroup": false,
+    "isChannel": false,
+    "isUser": true,
+    "membersCount": false,
+    "members":[
+      {
+        "name":"Do'stim",
+        "online":"last seen 19 minutes ago"
+      },
+      {
+        "name":"Xushnudbek Pratov",
+        "online":"Last seen recently"
+      }
+    ],
+    "messages":[
+      "Assalomu alekum",
+      "Do'stim qalesan",
+      "O'qishlar yaxshi bo'lyaptimi?"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "WeWantYou",
+    "bio": "Канал для поиска исполнителей для разных задач и организации мини конкурсов",
+    "username": "wewantyoutodothejob",
+    "avatar":"wewantyou-img.jpeg",
+    "selected": false,
+    "isGroup": false,
+    "isChannel": true,
+    "isUser": false,
+    "membersCount": 3335739,
+    "members":[
+      {
+        "name":"Xushnudbek Pratov",
+        "online":"last seen 46 minutes ago"
+      },
+      {
+        "name":"Du Rove",
+        "online":"online"
+      },
+      {
+        "name":"Aleksandr Nikolay",
+        "online":"Last seen recently"
+      }
+    ],
+    "messages": [
+      "Giveaway Prizes 10000 Telegram Premium subscriptions for 12 months Participants All subscribers of the channel: WeWantYou Winners Selection Date Apr 4, 2024, 22:00",
+      "Giveaway Prizes 10000 Telegram Premium subscriptions for 12 months Participants All subscribers of the channel: WeWantYou Winners Selection Date Apr 3, 2024, 22:00",
+      "У нас хорошие новости. Есть задача довести канал до 2.5 миллионов подписчиков. А если есть задача, значит есть и бюджет. И мы собираемся сделать кое-что невероятное. Возможно, такого больше никогда не случится и вы сейчас являетесь свидетелями уникального события. Следующие 14 дней мы будем разыгрывать 10 тысяч годовых подписок. Внимание! Каждый день. Каждый, чорт его дери, день. Каждый. Не через день, а каждый день.  Вы правильно прочитали? Каждый день. Каждыыыыййй день.  Вы осознаете вообще? Сто сорок тысяч годовых подписок. 140 000 годовых подписок. СТО 40 ТЫСЯЧ. Мы сами не верим. Хватит говорить. Пора делать!"
+    ]
+  }
+]
