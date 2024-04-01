@@ -32,7 +32,7 @@ const InnerChannel = () => {
                 flexDirection: "column",
                 gap: "15px"}}>
         {messages.map((msg) => (
-        <div style={{
+        <div key={Math.random()} style={{
           maxWidth: "400px",
           backgroundColor: "#212121",
           borderRadius: "10px",
