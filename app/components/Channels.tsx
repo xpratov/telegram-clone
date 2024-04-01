@@ -8,30 +8,26 @@ import ListItemText from '@mui/material/ListItemText';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Avatar from '@mui/material/Avatar';
 import Typography from '@mui/material/Typography';
-import { dataContext } from '../layout';
 
 
-
+let tanla=0
 const Channels = () => {
   const [data, setData]=useState<any[]>()
   const [selectedChannel, setSelectedChannel]=useState<number|null>(null)
-  const [contekst, setContekst]=useState(dataContext)
 
   useEffect(()=>{
     async function  getData() {
       const res=await fetch("/data.json")
       const data=await res.json()  
       console.log(data);
-      
       setData(data)
     }
     getData()
   },[])
   
   const handleChannel=(id:number)=>{
-    setSelectedChannel(id)
-    // setContekst(id)
-    
+    setSelectedChannel(id)   
+    tanla=id 
   }
   return (
     <Grid sx={{
@@ -73,5 +69,5 @@ const Channels = () => {
   )
 }
 
-export default Channels
+export default Channels;
 
