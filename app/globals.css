@@ -5,6 +5,7 @@
 }
 :root{
   --primary-color: #212121;
+  --white: #FFFFFF;
 }
 html,
 body{
@@ -14,6 +15,8 @@ body{
   flex-direction: column;
   align-items: center;
   background-color: var(--primary-color);
+  color: var(--white);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
